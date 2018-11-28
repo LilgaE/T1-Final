@@ -11,7 +11,7 @@
 			<h1>Moonlight</h1>
 		</header>
 			<section id="content">
-				<canvas id="" data-processing-sources="Starfield.pde">
+				<canvas id="fianl" data-processing-sources="final.pde">
 				</canvas>
 		    </section>
 	    <footer>
